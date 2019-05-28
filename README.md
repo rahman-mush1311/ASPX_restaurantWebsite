@@ -12,4 +12,4 @@ This project is a restaurant management website created by using C'#'.
 
 to only view the codes please see the csfiles folder. demo code of one page is  Details.aspx
 Demonstration with video link(it is a drive link) 
-https://drive.google.com/open?id=1x_MV3LZLo1Dy2XIdJd1grqkzIZtBlAjm
+https://drive.google.com/open?id=1ap0_oPYxBUsFE8t-X4A6IOme8gJqqWMk
